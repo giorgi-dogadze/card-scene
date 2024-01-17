@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/questionary-p2/static/css/main.35437987.css",
-    "main.js": "/questionary-p2/static/js/main.5e1bb12a.js",
-    "static/js/787.be9889f0.chunk.js": "/questionary-p2/static/js/787.be9889f0.chunk.js",
-    "static/media/Silent-Night.mp3": "/questionary-p2/static/media/Silent-Night.9fa68d5c5286b0da16ae.mp3",
-    "static/media/image_1.png": "/questionary-p2/static/media/image_1.1e6ca7852b8d74e48d43.png",
-    "static/media/image_7.png": "/questionary-p2/static/media/image_7.2a62529a5fbaa4dc2b00.png",
-    "static/media/image_8.png": "/questionary-p2/static/media/image_8.2d0ccb974d6da8c341d0.png",
-    "static/media/image_5.png": "/questionary-p2/static/media/image_5.09714b83753abfbbf078.png",
-    "static/media/image_9.png": "/questionary-p2/static/media/image_9.216569a529c4c6aec851.png",
-    "static/media/image_3.png": "/questionary-p2/static/media/image_3.627b003ce7a1eb16ee94.png",
-    "static/media/image_6.png": "/questionary-p2/static/media/image_6.9b3212fc17f3f7dbd1be.png",
-    "static/media/image_11.png": "/questionary-p2/static/media/image_11.4bae900160b43a2a5c4b.png",
-    "static/media/image_13.png": "/questionary-p2/static/media/image_13.d07130dfb034dea727bc.png",
-    "static/media/image_2.png": "/questionary-p2/static/media/image_2.6aedc194df9ea023cad6.png",
-    "static/media/image_12.png": "/questionary-p2/static/media/image_12.f484dd4c1bae43d31cf3.png",
-    "static/media/image_10.png": "/questionary-p2/static/media/image_10.e3e033c1efdca963e4db.png",
-    "static/media/image_4.png": "/questionary-p2/static/media/image_4.802c20b5a3c1d8abb948.png",
-    "static/media/image_14.png": "/questionary-p2/static/media/image_14.eca757f88969a2d7e4de.png",
-    "index.html": "/questionary-p2/index.html",
-    "main.35437987.css.map": "/questionary-p2/static/css/main.35437987.css.map",
-    "main.5e1bb12a.js.map": "/questionary-p2/static/js/main.5e1bb12a.js.map",
-    "787.be9889f0.chunk.js.map": "/questionary-p2/static/js/787.be9889f0.chunk.js.map"
+    "main.css": "/card-scene/static/css/main.35437987.css",
+    "main.js": "/card-scene/static/js/main.cc754427.js",
+    "static/js/787.be9889f0.chunk.js": "/card-scene/static/js/787.be9889f0.chunk.js",
+    "static/media/Silent-Night.mp3": "/card-scene/static/media/Silent-Night.9fa68d5c5286b0da16ae.mp3",
+    "static/media/image_1.png": "/card-scene/static/media/image_1.1e6ca7852b8d74e48d43.png",
+    "static/media/image_7.png": "/card-scene/static/media/image_7.2a62529a5fbaa4dc2b00.png",
+    "static/media/image_8.png": "/card-scene/static/media/image_8.2d0ccb974d6da8c341d0.png",
+    "static/media/image_5.png": "/card-scene/static/media/image_5.09714b83753abfbbf078.png",
+    "static/media/image_9.png": "/card-scene/static/media/image_9.216569a529c4c6aec851.png",
+    "static/media/image_3.png": "/card-scene/static/media/image_3.627b003ce7a1eb16ee94.png",
+    "static/media/image_6.png": "/card-scene/static/media/image_6.9b3212fc17f3f7dbd1be.png",
+    "static/media/image_11.png": "/card-scene/static/media/image_11.4bae900160b43a2a5c4b.png",
+    "static/media/image_13.png": "/card-scene/static/media/image_13.d07130dfb034dea727bc.png",
+    "static/media/image_2.png": "/card-scene/static/media/image_2.6aedc194df9ea023cad6.png",
+    "static/media/image_12.png": "/card-scene/static/media/image_12.f484dd4c1bae43d31cf3.png",
+    "static/media/image_10.png": "/card-scene/static/media/image_10.e3e033c1efdca963e4db.png",
+    "static/media/image_4.png": "/card-scene/static/media/image_4.802c20b5a3c1d8abb948.png",
+    "static/media/image_14.png": "/card-scene/static/media/image_14.eca757f88969a2d7e4de.png",
+    "index.html": "/card-scene/index.html",
+    "main.35437987.css.map": "/card-scene/static/css/main.35437987.css.map",
+    "main.cc754427.js.map": "/card-scene/static/js/main.cc754427.js.map",
+    "787.be9889f0.chunk.js.map": "/card-scene/static/js/787.be9889f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35437987.css",
-    "static/js/main.5e1bb12a.js"
+    "static/js/main.cc754427.js"
   ]
 }
