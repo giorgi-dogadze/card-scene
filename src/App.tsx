@@ -1,26 +1,45 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import ImageSlider from "./components/ImageSlider";
+import "./App.css"; // Add your global styling for the app if needed
 
-function App() {
+//@ts-ignore
+import sound from "./mp3/Silent-Night.mp3";
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <h1
+        style={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+        }}
+      >
+        Questionary pt 2
+      </h1>
+      <div className="app-container">
+        <div style={{}}>
+          <ImageSlider />
+        </div>
+      </div>
+      <div
+        style={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          marginTop: "30px",
+        }}
+      >
+        <audio
+          ref={(audio) => {
+            if (audio) audio.currentTime = 8;
+          }}
+          controls
+          autoPlay
+          src={sound}
+        />
+      </div>
+    </>
   );
-}
+};
 
 export default App;
