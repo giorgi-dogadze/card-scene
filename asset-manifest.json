@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/card-scene/static/css/main.35437987.css",
-    "main.js": "/card-scene/static/js/main.b68e243f.js",
+    "main.js": "/card-scene/static/js/main.03440ac5.js",
     "static/js/787.be9889f0.chunk.js": "/card-scene/static/js/787.be9889f0.chunk.js",
     "static/media/Silent-Night.mp3": "/card-scene/static/media/Silent-Night.9fa68d5c5286b0da16ae.mp3",
     "static/media/image_11.jpg": "/card-scene/static/media/image_11.0f6e31460b39d787b4d6.jpg",
@@ -21,11 +21,11 @@
     "static/media/image_15.png": "/card-scene/static/media/image_15.eca757f88969a2d7e4de.png",
     "index.html": "/card-scene/index.html",
     "main.35437987.css.map": "/card-scene/static/css/main.35437987.css.map",
-    "main.b68e243f.js.map": "/card-scene/static/js/main.b68e243f.js.map",
+    "main.03440ac5.js.map": "/card-scene/static/js/main.03440ac5.js.map",
     "787.be9889f0.chunk.js.map": "/card-scene/static/js/787.be9889f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35437987.css",
-    "static/js/main.b68e243f.js"
+    "static/js/main.03440ac5.js"
   ]
 }
