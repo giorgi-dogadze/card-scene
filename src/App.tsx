@@ -16,8 +16,8 @@ const App = () => {
       >
         Questionary pt 2
       </h1>
-      <div className="app-container">
-        <div style={{}}>
+      <div className="app-container" style={{ overflow: "hidden" }}>
+        <div style={{ height: "calc(100vh - 300px)" }}>
           <ImageSlider />
         </div>
       </div>
